@@ -14,7 +14,7 @@
 * Angie Krackeler, Program Director at IBM
 * Ajay Mishra, Sr. Research Engineer at Amazon
 * John Thomas, Senior Director of Engineering at Google Cloud
-* Nick Troccoli, Stanford University
+* Nick Troccoli, Lecturer at Computer Science Department, Stanford University
 
 ## Attendees
 #### Industry advisors:
@@ -23,15 +23,13 @@
 * Rabun Kosar, Tech Lead in Observability Team in Doordash
 * Angie Krackeler, Program Director at IBM
 * Ajay Mishra, Sr. Research Engineer at Amazon
-* Nick Troccoli, Stanford University
+* Nick Troccoli, Lecturer at Computer Science Department, Stanford University
 
 ## Foothill Representatives:
 * Zach Cembellin, Dean of STEM Division
-* Sharon Garcia-Vega, Administrative Assistant in STEM Division
 * Sophia Kim, Director of Science Learning Institute (SLI)
 * Lane Johnson, Computer Science Faculty
 * Daniel Kauffman, Computer Science Faculty
-* Laurence Lew, Business Faculty
 * Bita Mazloom, Computer Science Faculty
 * Mike Murphy, Computer Science Faculty
 * Teresa Ong, Associate Vice President, Workforce and Career Technical Education (CTE)
