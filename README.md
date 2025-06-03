@@ -1,4 +1,4 @@
-# Advisory Committee Agenda June 2024
+# Advisory Committee Agenda June 2025
 ### CS Department Industry Advisory Board
 ### 7 June 2024
 
