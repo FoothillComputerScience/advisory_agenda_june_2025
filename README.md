@@ -40,6 +40,7 @@
 # Suggested Readings
 * [CS Course Cataloge] (https://catalog.foothill.edu/courses-az/c_s/)
 * [Pathways for students in CS] (https://foothill.programmapper.com/academics/interest-clusters/1caa9223-79ad-4e43-817c-6d06e629a41f/programs/bb52a79d-eb17-2511-0a3c-ed0c7a4b27f2)
+* [Proposed Certificate]
 
 # Agenda
 ## 1. Introductions
@@ -47,7 +48,7 @@
 
 See Attendees above.
 
-## 2. Advice on What AI Background Students Need
+## 2. Proposed 
 (30 minutes)
 
 ## 3. How to teach the purpose of CS concepts when AI can prevent students from understanding it
