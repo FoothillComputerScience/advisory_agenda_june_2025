@@ -50,7 +50,7 @@
 # Suggested Readings
 * [CS Course Cataloge] (https://catalog.foothill.edu/courses-az/c_s/)
 * [Pathways for students in CS] (https://foothill.programmapper.com/academics/interest-clusters/1caa9223-79ad-4e43-817c-6d06e629a41f/programs/bb52a79d-eb17-2511-0a3c-ed0c7a4b27f2)
-* [Proposed Certificate]
+* [Proposed Certificate] (Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf)
 
 # Agenda
 ## 1. Introductions
@@ -58,14 +58,31 @@
 
 See Attendees above.
 
-## 2. Proposed 
-(30 minutes)
-
-## 3. How to teach the purpose of CS concepts when AI can prevent students from understanding it
-(30 minutes)
-
-## 3. Changes in workforce how it can impact students.
+## 2. Proposed Cerificate of Achievement: Principles of Machine Learning and Aritificial Intelligence
+Starter: Daniel Kauffman
+Action: Approval
+Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf
 (20 minutes)
+
+## 3. Future Plans in AI and ML
+Starter: Daniel Kauffman
+
+## 3. Consider Relaxing Minimum Qualifications to teach Networking, AWS, Cybersecurity
+Starter: Mike Murphy
+Action: Discussion
+(20 minutes)
+
+## 4. Future of Computer Science Education
+Starter: Eric Reed
+Action: Discussion
+
+* Employment outlook for CS Students is hazy, AI can do most entry-level development
+* Is the year long programming sequence relevant?
+* What skills do our students need going forward?
+* How do we work with four-year institutions to create transfer path with value and integrity?
+* How do we future-proof the department?
+(30 minutes)
+
 
 
 
