@@ -39,6 +39,7 @@
 * Lalitha Krishnamurthy, Computer Science Faculty
 * Bita Mazloom, Computer Science Faculty
 * Mike Murphy, Computer Science Faculty
+* Tri Phan, , Computer Science Chair
 * Teresa Ong, Associate Vice President, Workforce and Career Technical Education (CTE)
 * Eric Reed, Computer Science Chair
 * Thomas Riordan, Computer Science Faculty
