@@ -50,7 +50,7 @@
 # Suggested Readings
 * [CS Course Cataloge] (https://catalog.foothill.edu/courses-az/c_s/)
 * [Pathways for students in CS] (https://foothill.programmapper.com/academics/interest-clusters/1caa9223-79ad-4e43-817c-6d06e629a41f/programs/bb52a79d-eb17-2511-0a3c-ed0c7a4b27f2)
-* [Proposed Certificate] (Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf)
+* [[Proposed Certificate] (Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf)](https://github.com/FoothillComputerScience/advisory_agenda_june_2025/blob/main/Principles%20of%20Machine%20Learning%20and%20Artificial%20Intelligence%2CCertificate%20of%20Achievement.pdf)
 
 # Agenda
 ## 1. Introductions
@@ -63,8 +63,8 @@ See Attendees above.
 
 Starter: Daniel Kauffman  
 Action: Approval of proposed certificate  
-Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf  
-
+[Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf  
+](https://github.com/FoothillComputerScience/advisory_agenda_june_2025/blob/main/Principles%20of%20Machine%20Learning%20and%20Artificial%20Intelligence%2CCertificate%20of%20Achievement.pdf)
 
 ## 3. Future Plans in AI and ML
 (20 minutes)  
