@@ -64,7 +64,7 @@ See Attendees above.
 Starter: Eric Reed  
 Action: Information only  
 
-## 2. Proposed Cerificate of Achievement: Principles of Machine Learning and Aritificial Intelligence
+## 3. Proposed Cerificate of Achievement: Principles of Machine Learning and Aritificial Intelligence
 (12 minutes)  
 
 Starter: Daniel Kauffman  
@@ -72,14 +72,14 @@ Action: Approval of proposed certificate
 [Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf  
 ](https://github.com/FoothillComputerScience/advisory_agenda_june_2025/blob/main/Principles%20of%20Machine%20Learning%20and%20Artificial%20Intelligence%2CCertificate%20of%20Achievement.pdf)
 
-## 3. Future Plans in AI and ML
+## 4. Future Plans in AI and ML
 (20 minutes)  
 
 Starter: Daniel Kauffman  
 Action: Discussion of plans for future AI/ML classes, certificates and degrees  
 
 
-## 4. Consider Relaxing Minimum Qualifications to teach Cybersecurity
+## 5. Consider Relaxing Minimum Qualifications to teach Cybersecurity
 (15 minutes)  
 
 Starter: Mike Murphy  
@@ -90,7 +90,7 @@ Action: Discussion
 * What about other CTE areas within CS?
   
 
-## 5. Future of Computer Science Education
+## 6. Future of Computer Science Education
 (30 minutes)  
 
 Starter: Eric Reed  
