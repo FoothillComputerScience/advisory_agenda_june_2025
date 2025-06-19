@@ -59,26 +59,34 @@
 See Attendees above.
 
 ## 2. Proposed Cerificate of Achievement: Principles of Machine Learning and Aritificial Intelligence
+(20 minutes)  
+
 Starter: Daniel Kauffman  
 Action: Approval of proposed certificate  
 Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf  
-(20 minutes)
+
 
 ## 3. Future Plans in AI and ML
+(20 minutes)  
+
 Starter: Daniel Kauffman  
 Action: Discussion of plans for future AI/ML classes, certificates and degrees  
-(20 minutes)
+
 
 ## 4. Consider Relaxing Minimum Qualifications to teach Cybersecurity
+(20 minutes)  
+
 Starter: Mike Murphy  
 Action: Discussion  
 
 * Status quo (any instructor in CS needs a Master's degree in CS or related field)
 * Would it be reasonable to hire Cybersecurity instructors with Bachelor's degree plus experience?
 * What about other CTE areas within CS?
-(20 minutes)  
+  
 
 ## 5. Future of Computer Science Education
+(20 minutes)  
+
 Starter: Eric Reed  
 Action: Discussion  
 
@@ -89,7 +97,7 @@ Action: Discussion
 * Should all classes require an in-person final?
 * How do we work with four-year institutions to create transfer path with value and integrity?
 * How do we future-proof the department?
-(20 minutes)
+
 
 
 
