@@ -3,8 +3,9 @@
 ### 20 June 2025
 
 ## Goal of Meeting
-* Obtain advice on skills and background in AI that would make a student competitive in the market place today.
-* Obtain advice on changes in workforce in technology and how it can impact students.
+* Obtain approval of AI/ML certificate and advice for future offerings.
+* Discuss minimum qualifications for highly technical courrses.
+* Future direction given the context of the workforce.
 
 ## Industry Board Members
 * Ramin Akhbari, Software Architect at Salesforce
@@ -39,11 +40,10 @@
 * Bita Mazloom, Computer Science Faculty
 * Mike Murphy, Computer Science Faculty
 * Teresa Ong, Associate Vice President, Workforce and Career Technical Education (CTE)
-* Eric Reed, Computer Science Faculty
+* Eric Reed, Computer Science Chair
 * Thomas Riordan, Computer Science Faculty
 * Timothy Ryan, Computer Science Faculty
 * Robert Sandor, Computer Science Faculty
-* Anand Venkataraman, Computer Science Faculty
 * Baba Kofi Weusijana, Computer Science Faculty
 * Zi Bin Yang, Computer Science Faculty
 
@@ -58,8 +58,14 @@
 
 See Attendees above.
 
+## 2. CS Department Update
+(3 minutes)
+
+Starter: Eric Reed  
+Action: Information only  
+
 ## 2. Proposed Cerificate of Achievement: Principles of Machine Learning and Aritificial Intelligence
-(20 minutes)  
+(12 minutes)  
 
 Starter: Daniel Kauffman  
 Action: Approval of proposed certificate  
@@ -74,7 +80,7 @@ Action: Discussion of plans for future AI/ML classes, certificates and degrees
 
 
 ## 4. Consider Relaxing Minimum Qualifications to teach Cybersecurity
-(20 minutes)  
+(15 minutes)  
 
 Starter: Mike Murphy  
 Action: Discussion  
@@ -85,7 +91,7 @@ Action: Discussion
   
 
 ## 5. Future of Computer Science Education
-(20 minutes)  
+(30 minutes)  
 
 Starter: Eric Reed  
 Action: Discussion  
