@@ -59,22 +59,22 @@
 See Attendees above.
 
 ## 2. Proposed Cerificate of Achievement: Principles of Machine Learning and Aritificial Intelligence
-Starter: Daniel Kauffman
-Action: Approval
-Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf
+Starter: Daniel Kauffman  
+Action: Approval  
+Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf  
 (20 minutes)
 
 ## 3. Future Plans in AI and ML
-Starter: Daniel Kauffman
+Starter: Daniel Kauffman  
 
 ## 3. Consider Relaxing Minimum Qualifications to teach Networking, AWS, Cybersecurity
-Starter: Mike Murphy
-Action: Discussion
-(20 minutes)
+Starter: Mike Murphy  
+Action: Discussion  
+(20 minutes)  
 
 ## 4. Future of Computer Science Education
-Starter: Eric Reed
-Action: Discussion
+Starter: Eric Reed  
+Action: Discussion  
 
 * Employment outlook for CS Students is hazy, AI can do most entry-level development
 * Is the year long programming sequence relevant?
