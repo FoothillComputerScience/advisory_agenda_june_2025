@@ -73,12 +73,26 @@ Action: Approval of proposed certificate
 [Principles of Machine Learning and Artificial Intelligence,Certificate of Achievement.pdf  
 ](https://github.com/FoothillComputerScience/advisory_agenda_june_2025/blob/main/Principles%20of%20Machine%20Learning%20and%20Artificial%20Intelligence%2CCertificate%20of%20Achievement.pdf)
 
+Our proposed introductory program, Principles of Artificial Intelligence and Machine Learning, will provide students with no prior programming ability or college-level mathematical knowledge with a fundamental understanding of Artificial Intelligence, Machine Learning, and Data Science, as well as a framework for assessing and discussing ethical concerns in these fields.
+
+Mathematical topics in statistics and linear algebra, as well as computational topics in data structures and algorithms will be discussed at a conceptual level as they relate to the use of existing public libraries to conduct experiments in their respective courses.
+
+The goal of this program is to provide a strong foundation in Artificial Intelligence and Machine Learning for working professionals, as well as students wishing to explore and advance in this field or supplement their studies in another program.
+
+
 ## 4. Future Plans in AI and ML
 (20 minutes)  
 
 Starter: Daniel Kauffman  
-Action: Discussion of plans for future AI/ML classes, certificates and degrees  
+Action: Discussion of plans for future AI/ML classes, certificates and degrees
 
+Following our initial offering with the Principles certificate, our advanced certificates will provide additional proficiency in Artificial Intelligence as they relate to a particular path in the field. Two of our upcoming courses for the 2025/2026 academic year – Natural Language Processing (NLP) and Deep Learning – are expected to be included as part of these programs, as well as other courses currently under discussion.
+
+At this time, we are considering program paths that may include the following:
+- Autonomous Agents, focused on building systems that learn to act. To include Deep Learning and possible future courses in Robotics and Computer Vision, with NLP potentially as an elective.
+- Data-Driven Decision Making, focused on using data to empower better human decisions. To include existing courses in Database Management Systems, Data Visualization, and the upcoming NLP course, with Computer Vision potentially as an elective.
+
+More discussion will be needed to determine whether these paths offer optimal starting points for students, and what courses would be best to make each path distinct and meaningful. All pathways are expected to help students transition into the upcoming Associate’s Degree in Artificial Intelligence, should they decide to pursue this program.
 
 ## 5. Consider Relaxing Minimum Qualifications to teach Cybersecurity
 (15 minutes)  
